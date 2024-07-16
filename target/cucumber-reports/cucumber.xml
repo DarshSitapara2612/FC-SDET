@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="4.229">
-    <testcase classname="Verify all the users of city 'FANCODE' should have more then half todos task completed" name="All the users of City `FanCode` have more than half of their todos task completed." time="3.952">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="8.284">
+    <testcase classname="Verify all the users of city 'FANCODE' should have more then half todos task completed" name="All the users of City `FanCode` have more than half of their todos task completed." time="8.114">
         <system-out>
             <![CDATA[Given User has the todo tasks...............................................passed
 And User belongs to the city FanCode........................................passed

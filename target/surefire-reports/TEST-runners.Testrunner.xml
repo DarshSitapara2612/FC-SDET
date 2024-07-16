@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="runners.Testrunner" time="4.101" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="runners.Testrunner" time="8.202" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="11.0.23+9-LTS"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Amazon Corretto\jdk11.0.23_9\bin"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\Cert regression\FC-Final"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Automation\FC-SDET-main\FC-Final"/>
     <property name="java.vm.vendor" value="Amazon.com Inc."/>
     <property name="java.vendor.url" value="https://aws.amazon.com/corretto/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="test" value="Testrunner"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Cert regression\FC-Final"/>
+    <property name="user.dir" value="C:\Automation\FC-SDET-main\FC-Final"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="java.runtime.version" value="11.0.23+9-LTS"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
@@ -67,5 +67,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="runners.Testrunner" name="runScenario" time="4.101"/>
+  <testcase classname="runners.Testrunner" name="runScenario" time="8.202"/>
 </testsuite>

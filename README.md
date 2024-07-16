@@ -12,7 +12,7 @@ The scenario involves checking that all users from the city `FanCode` have compl
 
 ## Prerequisites
 
-- Java 8 or higher
+- Java
 - Maven
 - Git
 
